@@ -8,3 +8,5 @@ For prerequisites, environment setup, step-by-step guide and instructions, pleas
 
 > **Citation**  
 > The dataset in this repository is from The Atticus Project. (2021). Contract Understanding Atticus Dataset (CUAD) v1. https://doi.org/10.5281/zenodo.4595826
+
+07/2024
